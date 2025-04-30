@@ -1,1 +1,2 @@
+pip install streamlit openai pandas python-dotenv qrcode pillow sqlite3 PyMuPDF
 
